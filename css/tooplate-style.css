@@ -229,7 +229,13 @@ body {
 }
 
 /* fluid 5 columns */
-.grid-item { margin: 5px; }
+.grid-item { 
+	margin: 5px; 
+}
+
+img{
+	max-width: 280px;
+}
 
 /* Firefox hack 
    https://css-tricks.com/snippets/css/css-hacks-targeting-firefox/
